@@ -1,3 +1,4 @@
+<base href="../../">
 {{Solidaritas.net Media Center}}
 
 '''Laporan Aktivitas Solidaritas.net Media Center''' merupakan ringkasan dari seluruh kegiatan (pertemuan) yang diadakan selama masa hibah. 

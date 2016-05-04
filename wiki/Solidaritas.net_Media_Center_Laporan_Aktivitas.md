@@ -4,6 +4,8 @@ permalink: wiki/Solidaritas.net_Media_Center/Laporan_Aktivitas/
 layout: wiki
 ---
 
+<base href="../../">
+
 **Laporan Aktivitas Solidaritas.net Media Center** merupakan ringkasan
 dari seluruh kegiatan (pertemuan) yang diadakan selama masa hibah.
 
